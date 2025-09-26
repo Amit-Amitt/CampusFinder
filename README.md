@@ -217,7 +217,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
+- **Amit** - *Initial work* - [MyGitHub](https://github.com/Amit-Amitt)
 
 ## 🙏 Acknowledgments
 
@@ -230,7 +230,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need help, please:
 - Open an issue on GitHub
-- Contact: your.email@example.com
+- Contact: share.amitt@gmail.com
 - Check the documentation in the `/docs` folder
 
 ---
